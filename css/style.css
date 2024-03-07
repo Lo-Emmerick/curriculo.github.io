@@ -1,0 +1,45 @@
+
+.foto img {
+    overflow: hidden;
+    position: relative;
+    border-radius: 50%;
+    height: 214px;
+    width: 100%;
+    border-style: dashed;
+    border-color: 64449d;
+}
+
+.dados-pessoais {
+    color: 591767;
+}
+
+body {
+    background-color: 64449d;
+}
+
+.informacoes {
+    margin-left: 29px !important;
+}
+
+.menu {
+    margin-top: 60px;
+}
+
+.sobre-mim {
+    margin: 46px 40px 46px 40px !important;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.perfil {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cursos-complementares {
+    margin: 20px;
+    width: 1000px;
+}
