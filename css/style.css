@@ -43,3 +43,11 @@ body {
     margin: 20px;
     width: 1000px;
 }
+
+@media screen and (max-width: 1024px) {
+    .cursos-complementares {
+      width: 86%;
+    }
+}
+
+
